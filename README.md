@@ -40,7 +40,8 @@ En el repositorio se encuentra el archivo Dashboard.pbix
   
 
 
-![Compu 2](https://user-images.githubusercontent.com/108495374/215903934-abd62183-d2b8-462f-a106-ed06152e4ac8.jpg)
+
+![Compu chiquita](https://user-images.githubusercontent.com/108495374/215910323-cc23b7d5-95a0-4f06-bbd2-6ff328aac4fc.jpg)
 
 
 
