@@ -1,1 +1,44 @@
-# Proyecto-Individual-Data-Analyst
+# Bienvenidos a mi tercer y último proyecto individual de Henry Labs! 😀
+
+
+## Tarea
+
+Una startup de tecnología está interesada en sumarse al mercado de cursos online (MOOCS), pero de manera eficiente por lo que nos solicitan (como parte del equipo de trabajo) analizar y sacar conclusiones de los datos recolectados.
+
+
+![moocs](https://user-images.githubusercontent.com/108495374/215902434-8c4458e9-fdfe-4632-b330-b9b5de48f3d4.jpg)
+
+## Indicaciones:
+
+- Realizar análisis exploratorio de los datos (Exploratory Data Analyst = EDA) 
+- Presentación de un dashboard
+- Análisis y conclusiones de los datos
+- Sugerir Kpis 
+- Realizar un wordclod con las palabras clave que mas se repiten en el título
+
+
+## Material provisto
+
+Se cuenta con 4 datasets en formato csv que contienen datos de distintas plataformas que ofrecen cursos en linea: Udemy, Edx, Coursera
+
+## Desarrollo
+
+- Como primer punto del trabajo se realizó el análisis exploratorio de los datos, aplicándose una serie de transformaciones y visualizaciones que servirán para el análisis posterior. El mismo se encuentra desarrollado en los archivos "Eda_Coursera", "Eda_edx", "Eda_reviews" y Eda_udemy con código comentado y aclaraciones para una mejor comprension.
+Las librerias utilizadas fueron pandas, numpy, matplotlib y seaborn.
+
+- Seguidamente y dentro de cada notebook mencionado anteriormente, se desarrollo en wordcloud con las palabras clave que mas se repiten en los títulos de los cursos ofrecidos por las plataformas Udemy, Edx y Coursera. Las librerías utilizadas fueron wordcloud y nltk
+
+- Para la realización del dashboard utilice Power Bi (una de las herramientas más utilizadas hoy en día para visualizaciones e informes en el mundo empresarial), en el mismo se pueden visualizar datos informativos, el análisis realizado en detalle, defición de kpis.
+En el repositorio se encuentra el archivo Dashboard.pbix
+
+
+Gracias por acompañarme en éste recorrido, espero que hayan disfrutado tanto como yo!
+
+
+  ![Compu](https://user-images.githubusercontent.com/108495374/215903256-c2405aed-95aa-47ba-9cc4-daa8e247ad22.jpg)
+
+
+
+
+
+
