@@ -32,12 +32,15 @@ Las librerias utilizadas fueron pandas, numpy, matplotlib y seaborn.
 En el repositorio se encuentra el archivo Dashboard.pbix
 
 
-Gracias por acompañarme en éste recorrido, espero que hayan disfrutado tanto como yo!
 
 
-  ![Compu](https://user-images.githubusercontent.com/108495374/215903256-c2405aed-95aa-47ba-9cc4-daa8e247ad22.jpg)
+# Gracias por acompañarme en éste recorrido, espero que hayan disfrutado tanto como yo!
 
 
+  
+
+
+![Compu 2](https://user-images.githubusercontent.com/108495374/215903934-abd62183-d2b8-462f-a106-ed06152e4ac8.jpg)
 
 
 
