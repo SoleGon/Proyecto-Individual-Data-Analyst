@@ -6,7 +6,10 @@
 Una startup de tecnología está interesada en sumarse al mercado de cursos online (MOOCS), pero de manera eficiente por lo que nos solicitan (como parte del equipo de trabajo) analizar y sacar conclusiones de los datos recolectados.
 
 
-![moocs](https://user-images.githubusercontent.com/108495374/215902434-8c4458e9-fdfe-4632-b330-b9b5de48f3d4.jpg)
+
+
+![Cursos-gratis-de-MOOC](https://user-images.githubusercontent.com/108495374/215911384-110a41ce-a8bb-4758-b77c-d8174701a5f2.jpg)
+
 
 ## Indicaciones:
 
