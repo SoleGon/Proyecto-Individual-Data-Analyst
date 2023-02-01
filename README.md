@@ -34,7 +34,7 @@ Las librerias utilizadas fueron pandas, numpy, matplotlib y seaborn.
 - Para la realización del dashboard utilice Power Bi (una de las herramientas más utilizadas hoy en día para visualizaciones e informes en el mundo empresarial), en el mismo se pueden visualizar datos informativos, el análisis realizado en detalle, defición de kpis.
 
 
-Link de acceso a drive para ver el archivo Dasboard.pbix 👉  
+Link de acceso a drive para ver el archivo Dasboard.pbix 👉  https://drive.google.com/file/d/1GYD3JgSdEo3QnzIM4rVyahXINLTqfwsH/view?usp=share_link
 
 
 
