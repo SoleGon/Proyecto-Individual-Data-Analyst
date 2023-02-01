@@ -32,7 +32,9 @@ Las librerias utilizadas fueron pandas, numpy, matplotlib y seaborn.
 - Seguidamente y dentro de cada notebook mencionado anteriormente, se desarrollo en wordcloud con las palabras clave que mas se repiten en los títulos de los cursos ofrecidos por las plataformas Udemy, Edx y Coursera. Las librerías utilizadas fueron wordcloud y nltk
 
 - Para la realización del dashboard utilice Power Bi (una de las herramientas más utilizadas hoy en día para visualizaciones e informes en el mundo empresarial), en el mismo se pueden visualizar datos informativos, el análisis realizado en detalle, defición de kpis.
-En el repositorio se encuentra el archivo Dashboard.pbix
+
+
+Link de acceso a drive para ver el archivo Dasboard.pbix 👉 https://drive.google.com/drive/folders/1PgzaU2VOSxj4r3bADicog4KBHORnH7Y0?usp=sharing
 
 
 
